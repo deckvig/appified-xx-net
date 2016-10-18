@@ -1,17 +1,25 @@
-Oct 18 15:02:27.708 - [INFO] use build-in openssl lib
-Oct 18 15:02:27.709 - [INFO] start XX-Net 3.2.7
-Oct 18 15:02:27.709 - [DEBUG] start confirm_xxnet_exit
-Oct 18 15:02:27.710 - [DEBUG] good, xxnet:8087 cleared!
-Oct 18 15:02:27.711 - [DEBUG] good, xxnet:8085 clear!
-Oct 18 15:02:27.711 - [DEBUG] finished confirm_xxnet_exit
-Oct 18 15:02:27.944 - [INFO] module gae_proxy started
-Oct 18 15:02:27.944 - [INFO] start gae_proxy time cost:232 ms
-Oct 18 15:02:28.057 - [INFO] module x_tunnel started
-Oct 18 15:02:28.057 - [INFO] start x_tunnel time cost:112 ms
-Oct 18 15:02:28.057 - [INFO] begin to start web control
-Oct 18 15:02:28.058 - [INFO] launcher web control started.
-Oct 18 15:02:29.100 - [DEBUG] launcher web_control 127.0.0.1:58780 GET /config?cmd=get_config 
-Oct 18 15:02:29.232 - [INFO] get uuid:e2a46dad-99aa-4f10-bf02-090e3a5dd4e3
-Oct 18 15:02:29.487 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to /Users/deckvig/Desktop/appified-xx-net/XX-Net.app/Contents/MacOS/data/downloads/version.txt, retry:0
-Oct 18 15:02:31.003 - [DEBUG] launcher web_control 127.0.0.1:58850 GET /config?cmd=get_config 
-Oct 18 15:02:31.868 - [DEBUG] launcher web_control 127.0.0.1:58780 GET /config?cmd=get_config 
+Oct 18 15:05:23.035 - [INFO] use build-in openssl lib
+Oct 18 15:05:23.036 - [INFO] start XX-Net 3.2.7
+Oct 18 15:05:23.036 - [DEBUG] start confirm_xxnet_exit
+Oct 18 15:05:23.038 - [DEBUG] <0>: try to terminate xxnet:8087
+Oct 18 15:05:24.041 - [DEBUG] good, xxnet:8087 cleared!
+Oct 18 15:05:24.043 - [DEBUG] <0>: try to terminate xxnet:8085
+Oct 18 15:05:25.050 - [DEBUG] good, xxnet:8085 clear!
+Oct 18 15:05:25.050 - [DEBUG] finished confirm_xxnet_exit
+Oct 18 15:05:25.261 - [INFO] module gae_proxy started
+Oct 18 15:05:25.261 - [INFO] start gae_proxy time cost:210 ms
+Oct 18 15:05:25.373 - [INFO] module x_tunnel started
+Oct 18 15:05:25.374 - [INFO] start x_tunnel time cost:112 ms
+Oct 18 15:05:25.374 - [INFO] begin to start web control
+Oct 18 15:05:25.374 - [INFO] launcher web control started.
+Oct 18 15:05:26.017 - [DEBUG] launcher web_control 127.0.0.1:59204 GET /config?cmd=get_config 
+Oct 18 15:05:26.501 - [INFO] get uuid:e2a46dad-99aa-4f10-bf02-090e3a5dd4e3
+Oct 18 15:05:26.742 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to /Users/deckvig/Desktop/appified-xx-net/XX-Net.app/Contents/MacOS/data/downloads/version.txt, retry:0
+Oct 18 15:05:41.594 - [DEBUG] start to terminate gae_proxy module
+Oct 18 15:05:41.594 - [DEBUG] module gae_proxy stopping
+Oct 18 15:05:42.302 - [INFO] module gae_proxy stopped
+Oct 18 15:05:42.302 - [DEBUG] start to terminate x_tunnel module
+Oct 18 15:05:42.302 - [DEBUG] module x_tunnel stopping
+Oct 18 15:05:42.303 - [INFO] module x_tunnel stopped
+module x_tunnel stopping
+Oct 18 15:05:24.044 - [INFO] module x_tunnel stopped

@@ -1,3 +1,7 @@
+# Update for support last version of XX-net.
+
+XX-net:3.2.7
+
 # Appifed version of [XX-Net](https://github.com/XX-net/XX-Net)
 
 In fact the best way to create an app is using Xcode to scaffold.

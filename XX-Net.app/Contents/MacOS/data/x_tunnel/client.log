@@ -1,5 +1,7 @@
-Oct 18 15:02:27.956 - [INFO] use config_path:/Users/deckvig/Desktop/appified-xx-net/XX-Net.app/Contents/MacOS/data/x_tunnel/client.json
-Oct 18 15:02:27.956 - [INFO] Use proxy:127.0.0.1:8087
-Oct 18 15:02:27.956 - [DEBUG] x-tunnel no account
-Oct 18 15:02:27.957 - [WARNING] x-tunnel session not start
-Oct 18 15:02:27.957 - [INFO] Socks5 server listen:127.0.0.1:1080.
+Oct 18 15:05:25.273 - [INFO] use config_path:/Users/deckvig/Desktop/appified-xx-net/XX-Net.app/Contents/MacOS/data/x_tunnel/client.json
+Oct 18 15:05:25.273 - [INFO] Use proxy:127.0.0.1:8087
+Oct 18 15:05:25.274 - [DEBUG] x-tunnel no account
+Oct 18 15:05:25.274 - [WARNING] x-tunnel session not start
+Oct 18 15:05:25.275 - [INFO] Socks5 server listen:127.0.0.1:1080.
+Oct 18 15:05:42.302 - [INFO] Close Socks5 server 
+Oct 18 15:05:42.302 - [INFO] Stopping session

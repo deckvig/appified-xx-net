@@ -1,13 +1,13 @@
-59.18.35.95 *.googlevideo.com gws 102 0 0
-59.18.45.141 *.googlevideo.com gws 103 0 0
-59.18.35.111 *.googlevideo.com gws 103 0 0
 59.18.45.140 *.googlevideo.com gws 104 0 0
 59.18.35.164 *.googlevideo.com gws 104 0 0
+59.18.35.95 *.googlevideo.com gws 104 0 0
 202.86.162.172 google.com gws 105 0 0
+59.18.45.141 *.googlevideo.com gws 109 0 0
 202.224.62.44 *.googlevideo.com gws 113 0 0
 106.103.1.170 *.googlevideo.com gws 114 0 0
 203.252.15.173 *.googlevideo.com gws 114 0 0
 203.252.15.144 *.googlevideo.com gws 115 0 0
+59.18.35.111 *.googlevideo.com gws 120 0 0
 59.18.45.248 *.googlevideo.com gws 121 0 0
 61.238.239.215 *.googlevideo.com gws 123 0 0
 59.18.35.239 *.googlevideo.com gws 125 0 0
@@ -667,8 +667,8 @@
 41.201.164.164 *.googlevideo.com gws 1024 0 0
 130.206.193.112 google.com gws 1024 0 0
 41.201.164.156 *.googlevideo.com gws 1032 0 0
-212.113.52.210 *.googlevideo.com gws 1033 0 0
 92.226.2.111 *.googlevideo.com gws 1033 0 0
+212.113.52.210 *.googlevideo.com gws 1033 0 0
 190.113.97.219 google.com gws 1037 0 0
 111.84.224.144 google.com gws 1039 0 0
 212.113.52.236 *.googlevideo.com gws 1039 0 0
