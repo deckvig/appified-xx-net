@@ -1,5 +1,8 @@
+language: zh_CN
 modules:
-  goagent: {auto_start: 1, control_port: 8084, current_version: 3.1.49}
-  launcher: {current_version: 1.4.0}
-  php_proxy: {control_port: 8083, current_version: 1.0.0}
-update: {last_path: /Users/will/Desktop/logo.app/Contents/MacOS/launcher/1.4.0}
+  gae_proxy: {auto_start: 1, show_detail: 1}
+  launcher: {allow_remote_connect: 0, control_port: 8085, last_run_version: 3.2.7,
+    proxy: pac, xxnet_port: 8087}
+  x_tunnel: {auto_start: 1}
+update: {last_path: /Users/deckvig/Desktop/appified-xx-net/XX-Net.app/Contents/MacOS/code/default/launcher,
+  uuid: e2a46dad-99aa-4f10-bf02-090e3a5dd4e3}

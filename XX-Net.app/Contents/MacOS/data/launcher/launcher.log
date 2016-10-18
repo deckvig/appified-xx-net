@@ -1,0 +1,17 @@
+Oct 18 15:02:27.708 - [INFO] use build-in openssl lib
+Oct 18 15:02:27.709 - [INFO] start XX-Net 3.2.7
+Oct 18 15:02:27.709 - [DEBUG] start confirm_xxnet_exit
+Oct 18 15:02:27.710 - [DEBUG] good, xxnet:8087 cleared!
+Oct 18 15:02:27.711 - [DEBUG] good, xxnet:8085 clear!
+Oct 18 15:02:27.711 - [DEBUG] finished confirm_xxnet_exit
+Oct 18 15:02:27.944 - [INFO] module gae_proxy started
+Oct 18 15:02:27.944 - [INFO] start gae_proxy time cost:232 ms
+Oct 18 15:02:28.057 - [INFO] module x_tunnel started
+Oct 18 15:02:28.057 - [INFO] start x_tunnel time cost:112 ms
+Oct 18 15:02:28.057 - [INFO] begin to start web control
+Oct 18 15:02:28.058 - [INFO] launcher web control started.
+Oct 18 15:02:29.100 - [DEBUG] launcher web_control 127.0.0.1:58780 GET /config?cmd=get_config 
+Oct 18 15:02:29.232 - [INFO] get uuid:e2a46dad-99aa-4f10-bf02-090e3a5dd4e3
+Oct 18 15:02:29.487 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to /Users/deckvig/Desktop/appified-xx-net/XX-Net.app/Contents/MacOS/data/downloads/version.txt, retry:0
+Oct 18 15:02:31.003 - [DEBUG] launcher web_control 127.0.0.1:58850 GET /config?cmd=get_config 
+Oct 18 15:02:31.868 - [DEBUG] launcher web_control 127.0.0.1:58780 GET /config?cmd=get_config 
